@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arike\\source\\repos\\Pharmat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64D7A22E-B3BC-4BA9-8F20-044B08084253}|Pharmat\\Pharmat.csproj|C:\\Users\\arike\\source\\repos\\Pharmat\\pharmat\\satisyap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64D7A22E-B3BC-4BA9-8F20-044B08084253}|Pharmat\\Pharmat.csproj|solutionrelative:pharmat\\satisyap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SatisYap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arike\\source\\repos\\Pharmat\\Pharmat\\SatisYap.cs",
+              "RelativeDocumentMoniker": "Pharmat\\SatisYap.cs",
+              "ToolTip": "C:\\Users\\arike\\source\\repos\\Pharmat\\Pharmat\\SatisYap.cs [Design]",
+              "RelativeToolTip": "Pharmat\\SatisYap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T10:03:50.164Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

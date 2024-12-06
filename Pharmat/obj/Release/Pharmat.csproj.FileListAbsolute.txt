@@ -1,0 +1,14 @@
+C:\Users\arike\source\repos\Pharmat\Pharmat\bin\Release\Pharmat.exe.config
+C:\Users\arike\source\repos\Pharmat\Pharmat\bin\Release\Pharmat.exe
+C:\Users\arike\source\repos\Pharmat\Pharmat\bin\Release\Pharmat.pdb
+C:\Users\arike\source\repos\Pharmat\Pharmat\obj\Release\Pharmat.csproj.AssemblyReference.cache
+C:\Users\arike\source\repos\Pharmat\Pharmat\obj\Release\Pharmat.Panel.resources
+C:\Users\arike\source\repos\Pharmat\Pharmat\obj\Release\Pharmat.Müşteriler.resources
+C:\Users\arike\source\repos\Pharmat\Pharmat\obj\Release\Pharmat.Properties.Resources.resources
+C:\Users\arike\source\repos\Pharmat\Pharmat\obj\Release\Pharmat.Çalışanlar.resources
+C:\Users\arike\source\repos\Pharmat\Pharmat\obj\Release\Pharmat.Üreticiler.resources
+C:\Users\arike\source\repos\Pharmat\Pharmat\obj\Release\Pharmat.İlaçlar.resources
+C:\Users\arike\source\repos\Pharmat\Pharmat\obj\Release\Pharmat.csproj.GenerateResource.cache
+C:\Users\arike\source\repos\Pharmat\Pharmat\obj\Release\Pharmat.csproj.CoreCompileInputs.cache
+C:\Users\arike\source\repos\Pharmat\Pharmat\obj\Release\Pharmat.exe
+C:\Users\arike\source\repos\Pharmat\Pharmat\obj\Release\Pharmat.pdb
